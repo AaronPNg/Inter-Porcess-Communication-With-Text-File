@@ -1,4 +1,4 @@
-# Inter-Porcess-Communication-With-Text-File
+# Interprocess-Communication-With-Text-File
 This is a simulation of a client and server completed for school.
 Instances of the program can be running on multiple terminals on the same device and each instance will update their own data members through the text file "log.txt" before proceeding with its client command.
 Each instance reads the same text file to obtain a list of vlid clients and their passwords for this simulation.
